@@ -44,4 +44,15 @@ Ich habe heute ein Video zu apis geschaut und selbst den code versucht nachzusch
 
 
 - [ ] falls noch zeit vieleicht erkundigen ob man ein schönes UI programmieren kann
+
+
+
+
+
+Das Programm funktiniert recht simple: 
+Es bezieht daten von der offiziellen API von dem Videospiel Albion Online. Als erstes muss man den Namen des Charackters eingeben von welchem man die PVP XP wissen will (Im beispiel ist das "KasperBombaster"). 
+
+<img width="808" height="141" alt="image" src="https://github.com/user-attachments/assets/967f933e-aa8b-4fa6-97d9-aee237df30d7" />
+
+Es gibt einem dann die Gesammte zahl der XP punkte welche der charackter gesammelt hat.
       
