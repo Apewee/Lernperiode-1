@@ -38,5 +38,10 @@ Erstes Arbeitspacket:
 
 - [ ] falls das geht ein analysierungs command als default einbauen welcher vorher noch fragt ob es schlechte gilden in der vorgeschichte gibt.
 
+**Heute:16.08.2026**
+
+Ich habe heute ein Video zu apis geschaut und selbst den code versucht nachzuschreiben: Das Video bietet eine kompakte Anleitung zur Entwicklung einer RESTful API mit ASP.NET 6.0 anhand einer Hotelbuchungsanwendung. Der Prozess umfasst das Aufsetzen eines Web-API-Projekts in Visual Studio, das Definieren eines Datenmodells sowie die Konfiguration einer In-Memory-Datenbank mittels Entity Framework Core. Abschließend implementiert der Entwickler über einen API-Controller die wesentlichen CRUD-Funktionen für das Erstellen, Abrufen, Bearbeiten und Löschen von Datensätzen, die direkt über die automatisch generierte Swagger-Dokumentation getestet werden können.
+
+
 - [ ] falls noch zeit vieleicht erkundigen ob man ein schönes UI programmieren kann
       
