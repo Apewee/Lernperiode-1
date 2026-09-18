@@ -45,9 +45,11 @@ Ich habe heute ein Video zu apis geschaut und selbst den code versucht nachzusch
 
 - [ ] falls noch zeit vieleicht erkundigen ob man ein schönes UI programmieren kann
 
+**Reflektion auf das projekt**
+Obwohl ich schon mit anderen Programmiersprachen code geschrieben habe war es das erste mal das ich mit C# gearbeitet habe und ich hätte vieleicht nicht direkt mit API arbeit anfangen sollen. Die meiste zeit habe ich die API anleitungen auf der Albiononline website zu finden sind versucht zu implementieren (die Dokumentation ist bei weitem nicht ausreichend). Ich habe dann andere github Projekte welche mit der API gearbeitet haben in meine KI hochgeladen und sie hat dann die korrekten links gefunden. Alles in allem bin ich zufrieden das ich mit dem Projekt fertig geworden bin.
 
 
-
+# Anleitung
 
 Das Programm funktiniert recht simple: 
 Es bezieht daten von der offiziellen API von dem Videospiel Albion Online. Als erstes muss man den Namen des Charackters eingeben von welchem man die PVP XP wissen will (Im beispiel ist das "KasperBombaster"). 
@@ -55,4 +57,8 @@ Es bezieht daten von der offiziellen API von dem Videospiel Albion Online. Als e
 <img width="808" height="141" alt="image" src="https://github.com/user-attachments/assets/967f933e-aa8b-4fa6-97d9-aee237df30d7" />
 
 Es gibt einem dann die Gesammte zahl der XP punkte welche der charackter gesammelt hat.
+
+
+
+
       
